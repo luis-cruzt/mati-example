@@ -30,7 +30,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  mati_plugin_flutter: ^2.4.2
+  mati_plugin_flutter: ^2.4.9
 
 dev_dependencies:
 

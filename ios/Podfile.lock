@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Mati-Global-ID-SDK (3.8.5)
+  - mati_plugin_flutter (2.2.1):
+    - Flutter
+    - Mati-Global-ID-SDK
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - mati_plugin_flutter (from `.symlinks/plugins/mati_plugin_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Mati-Global-ID-SDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  mati_plugin_flutter:
+    :path: ".symlinks/plugins/mati_plugin_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Mati-Global-ID-SDK: 47ab58096b982fb26f7a2c374a89abf388605147
+  mati_plugin_flutter: 218f7c70edad4419d530dd4564c79a720d6361d0
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.10.1
